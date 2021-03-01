@@ -15,7 +15,7 @@
     "js-priority-queue": "^0.1.5",
     "monotone-convex-hull-2d": "^1.0.1",
     "proj4": "^2.5.0",
-    "three": "^0.95.0",
+    "three": "^0.125.0",
     "three.meshline": "^1.1.0",
     "togeojson": "^0.16.0",
     "vue": "^2.5.2",
